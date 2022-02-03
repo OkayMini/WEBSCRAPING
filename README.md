@@ -4,7 +4,7 @@
 So basically , Scraping or Extraction the useful data from websites is said to be Web Scraping,
 The Python libraries requests and Beautiful Soup are powerful tools for the job.
 
-Below is the screenshot from the website where you can inspect to search the data . 
+Below is the screenshot from the website where you can inspect to search the data from the website.
 
 ## Screenshots
 
